@@ -6,7 +6,7 @@ estoque = [
 ]
 
 print("Produtos com estoque menor que 10 unidades:")
-print("-----------------------------------------")
+print
 
 for produto in estoque:
     if produto["quantidade"] < 10:
